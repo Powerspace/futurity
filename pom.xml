@@ -4,7 +4,7 @@
 
     <groupId>com.spikhalskiy.futurity</groupId>
     <artifactId>futurity-parent</artifactId>
-    <version>0.3-SNAPSHOT</version>
+    <version>0.4-SNAPSHOT</version>
     <packaging>pom</packaging>
     <name>futurity</name>
     <description>A simple tool to convert plain old Java Future to CompletableFuture</description>
@@ -138,7 +138,7 @@
             <dependency>
                 <groupId>org.jctools</groupId>
                 <artifactId>jctools-core</artifactId>
-                <version>1.2.1</version>
+                <version>2.1.2</version>
             </dependency>
             <dependency>
                 <groupId>junit</groupId>
